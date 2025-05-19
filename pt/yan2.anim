@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yan2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.625,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "063bb8ed-3fc4-4487-abb7-d78bd5fb46f2"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "4c47a4eb-31a5-449a-bc4a-296ce1d6ffd2"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "0f2ea9b8-5197-4078-ac36-50d1c8ec7497"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

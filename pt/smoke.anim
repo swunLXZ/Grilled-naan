@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "smoke",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.75,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "d418fc55-1c84-4661-9118-b3b51d4047ab"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "e7f5c7c2-c86b-48b8-901e-8a761a71ff11"
+            }
+          },
+          {
+            "frame": 0.625,
+            "value": {
+              "__uuid__": "c8ab12e3-a537-43bd-8754-761700f53f5c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

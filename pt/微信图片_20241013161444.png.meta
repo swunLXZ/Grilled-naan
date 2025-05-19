@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "c9b86389-dade-4b61-abd7-9c1d4c543f8c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "微信图片_20241013161444": {
+      "ver": "1.0.3",
+      "uuid": "e7f5c7c2-c86b-48b8-901e-8a761a71ff11",
+      "rawTextureUuid": "c9b86389-dade-4b61-abd7-9c1d4c543f8c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -174,
+      "offsetY": -136,
+      "trimX": 935,
+      "trimY": 1228,
+      "width": 170,
+      "height": 204,
+      "rawWidth": 2388,
+      "rawHeight": 2388,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
